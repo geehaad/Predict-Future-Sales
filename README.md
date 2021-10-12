@@ -1,7 +1,7 @@
 # Predict-Future-Sales
 Predict Future Sales using Simple Linear Regression, SVM, Decision Tree
 
-This challenge serves as final project for the "How to win a data science competition" Coursera course.
+This challenge serves as final project for the "How to win a data science competition" Coursera course.<br>
 Find the dataset from here: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
 <h2>Data Description</h2>
