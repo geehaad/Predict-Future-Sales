@@ -1,6 +1,9 @@
 # Predict-Future-Sales
 Predict Future Sales using Simple Linear Regression, SVM, Decision Tree
 
+This challenge serves as final project for the "How to win a data science competition" Coursera course.
+Find the dataset from here: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
+
 <h2>Data Description</h2>
 
 You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
